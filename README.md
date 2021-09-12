@@ -27,4 +27,4 @@
 
 #### - For rural users, prices should be lowered. There is a chance that the significantly low numbers of usage could be due to the $10 price disparity per ride as compared to urban users. 
 
-#### Finally, across all three city types, there was a peak in total fares paid at the end of February. This should be further analyzed for correlations to more rides during this period as related to events to potentially offer more drivers or lower fares during this time frame to engage with more users. 
+#### - Finally, across all three city types, there was a peak in total fares paid at the end of February. This should be further analyzed for correlations to more rides during this period as related to events to potentially offer more drivers or lower fares during this time frame to engage with more users. 
